@@ -137,5 +137,9 @@ hr {
     .container {
       width: 300px;
     }
+
+    h1, h2 {
+      line-height: 30px;
+    }
   }
   
